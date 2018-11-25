@@ -8,7 +8,7 @@ from pprint import pprint
 app = Flask(__name__)
 
 # Facebook apps link:   https://developers.facebook.com/apps/2222049801408664/dashboard/
-FB_ACCESS_TOKEN = "EAACZCFZCMSQ4QBALXFpUZAAykpwqzZBsQeJg8heWhw4nhov93PVSWuDYIZAwQN66wl057VkzsTCXSrjGyxGFCdQBYpUZBppS85f8pTv7XvnFfvVcFFx1dxtWAZBiyGPxQwJ0Bq1ZCnS6NEvVZCODJ4zuFZBve3ZALZCMI0bJXysZAvSHI6QZDZD"
+FB_ACCESS_TOKEN = "EAAEwM5KUIVsBAH8mURHOuKz0PXlWzzNX7es5xZBlQLkVqxZBdO191Gx9aZAUzVF6olvQsvwtauyJx9xrzzdcBjoPA3Ku0WvQuxQuJKPEZB2alqTisRRNFxzckrWilLcxEbDZCFWWKByLXICJ0XIZBujzdD4XU1rl28b8HkNZB5fUAZDZD"
 
 bot = Bot(FB_ACCESS_TOKEN)
 
